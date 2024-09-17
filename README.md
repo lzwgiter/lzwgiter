@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lzwgiter
 - 👀 10v3 Web Security and Java Web developing
-- 📫 come and leave a comment👋[https://www.f10at.cn/](https://lzwgiter.pages.dev/)
+- 📫 come and leave a comment👋[https://lzwgiter.pages.dev/](https://lzwgiter.pages.dev/)
 
 [![lzwgiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzwgiter&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
